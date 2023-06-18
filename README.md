@@ -1,6 +1,7 @@
 #TOH-TaR
 
 本家TOHにちょびっと役職を追加したMODです。
+このMODは[TownOfHost](https://github.com/tukasa0001/TownOfHost/releases/latest)のフォークであり、本家でないことに注意してください。
 Git2時間前に使い始めた超絶初心者なのでもしこのブランチが何かまずいようなら即座に消します。
 
 以下本家TOHのやつ

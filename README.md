@@ -1,3 +1,10 @@
+#TOH-TaR
+
+本家TOHにちょびっと役職を追加したMODです。
+Git2時間前に使い始めた超絶初心者なのでもしこのブランチが何かまずいようなら即座に消します。
+
+以下本家TOHのやつ
+
 # Town Of Host
 
 [English](https://github.com/tukasa0001/TownOfHost/blob/main/README-EN.md)
